@@ -7,6 +7,8 @@ app.get('/', (req, res) => {
   res.end('Hello World!');
 });
 
+
+
 app.get("/list_anime", (req, res) => {
     fs.readFile(__dirname + '/' + 'anime.json', (err, data) => {
         res.end(data);
