@@ -1,6 +1,8 @@
 # anime_api
+`for Keploy Fellowship Task - 4`
 
 Local API made with NodeJS and Express where data entries are in anime.json file integrated in index.html file.
+Wrote a Blog about is as well. [Read it here!](https://sanskritigupta.hashnode.dev/build-an-api-using-nodejs)
 
 1. Fork the repo and clone it to your local machine
 2. To start the server use command `npm index.js`
